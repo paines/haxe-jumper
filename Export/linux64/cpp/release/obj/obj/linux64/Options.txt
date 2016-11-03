@@ -1,3 +1,0 @@
-HXCPP_M64=1
-hxcpp_api_level=321
-hxcpp=/home/lihovac/openfl/hxcpp/3,3,49/
